@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TelefoniaEntidades", "TelefoniaEntidades\TelefoniaEntidades.vbproj", "{2A6E1688-5F01-4A4F-8093-B9DBB6D2F1CC}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tests", "Tests\Tests.vbproj", "{F829D4FF-5BF9-4374-A06E-30897E265113}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2A6E1688-5F01-4A4F-8093-B9DBB6D2F1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A6E1688-5F01-4A4F-8093-B9DBB6D2F1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A6E1688-5F01-4A4F-8093-B9DBB6D2F1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F829D4FF-5BF9-4374-A06E-30897E265113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F829D4FF-5BF9-4374-A06E-30897E265113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F829D4FF-5BF9-4374-A06E-30897E265113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F829D4FF-5BF9-4374-A06E-30897E265113}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
